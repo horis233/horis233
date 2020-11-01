@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/horis233/horis233/blob/master/README.md">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=horis233&show_icons=true&count_private=true" />
+</a>
+
 <!--
 **horis233/horis233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
